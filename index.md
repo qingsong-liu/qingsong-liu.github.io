@@ -4,8 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University, supervised by Prof. [Zhixuan Fang](https://people.iiis.tsinghua.edu.cn/~fang/). I achieved my Bachelor's degree at Department of Electronic Engineering of Tsinghua University. Previsouly, I worked with Prof. [Wenfei Wu].
-
+I am a Ph.D. student at Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University, supervised by Prof. [Zhixuan Fang](https://people.iiis.tsinghua.edu.cn/~fang/). I achieved my Bachelor's degree at Department of Electronic Engineering of Tsinghua University. Previsouly, I worked with Prof. [Wenfei Wu](https://wenfei-wu.github.io/).
 
 ## Research Interests
 
