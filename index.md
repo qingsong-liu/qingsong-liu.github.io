@@ -4,53 +4,67 @@ layout: homepage
 
 ## About Me
 
-I am a second-year Ph.D. student at Department of Computer Science, National University of Singapore (NUS), supervised by Prof. [Angela Yao](https://www.comp.nus.edu.sg/~ayao/). My research interests lie in computer vision and deep learning, especially human pose estimation. I achieved my Bachelor's degree at Shanghai Jiao Tong University (SJTU). Previsouly, I worked with Prof. [Quanshi Zhang](http://qszhang.com/)@SJTU and Prof. [Guosheng Lin](https://guosheng.github.io/)@NTU.
+I am a Ph.D. student at Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University, supervised by Prof. [Zhixuan Fang](https://people.iiis.tsinghua.edu.cn/~fang/). I achieved my Bachelor's degree at Department of Electronic Engineering, Tsinghua University. Previsouly, I worked with Prof. [Wenfei Wu](https://wenfei-wu.github.io/)@PKU.
 
 
-<!-- ## Research Interests
+## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning -->
+- **Constrained Online Learning**
+- **Online Learning in Computer Systems and Communication networks**
 
-<!-- ## News
+## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to [CVPR 2020](http://cvpr2020.thecvf.com/).
-- **[Feb. 2020]** We will host the [ACM Multimedia Asia 2020](https://mmasia2020.org/) conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to [NeurIPS 2019](https://nips.cc/Conferences/2019).
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to [CVPR 2019](http://cvpr2019.thecvf.com/). -->
+- **[September 2022]** One paper accepted to NeurIPS 2022!
+- **[Augest 2022]** One paper accepted to CNSM 2022!
+- **[July 2022]** One paper accepted to WiOpt 2022!
 
-## Publications
 
-- **Removing the Bias of Integral Pose Regression**
+## Conference Papers
+
+- **Combinatorial Bandits with Linear Constraints: Beyond Knapsacks and Fairness**
   <br>
-  **Kerui Gu**, Linlin Yang, Angela Yao
+  **Qingsong Liu**, Weihang Xu, Siwei Wang, and Zhixuan Fang
   <br>
-  International Conference on Computer Vision. **ICCV 2021**.
+  36th Conference on Neural Information Processing Systems. **NeurIPS 2022**.
   <br>
-  [[paper](./assets/pdfs/11152.pdf)] [[supp](./assets/pdfs/11152-supp.pdf)] 
-  <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
+  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] [[Project](https://mnemonics.yyliu.net/)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
 
-<!-- - **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
+- **Online Convex Optimization with Switching Costs: Algorithms and Performance**
   <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
+  **Qingsong Liu**, Zhuoran Li, and Zhixuan Fang
   <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
-  <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
+  20th International Symposium on Modeling and Optimization in Mobile, Ad Hoc and Wireless Networks. **WiOpt 2022**.
 
-- **Meta-Transfer Learning for Few-Shot Learning**
+- **Learning to Caching Under the Partial-feedback Regime**
   <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
+  **Qingsong Liu**, Yaoyu Zhang
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
+  18th International Conference on Network and Service Management. **CNSM 2022**.
+  
+- **Simultaneously Achieving Sublinear Regret and Constraint Violations for Online Convex Optimization with Time-varying Constraints**
   <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)] -->
+  **Qingsong Liu**, Wenfei Wu, Longbo Huang, and Zhixuan Fang
+  <br>
+  39th International Symposium on Computer Performance, Modeling, Measurements and Evaluation. **Performance 2021**.
+  
+- **“HyperNAT: Scaling Up Network AddressTranslation with SmartNICs for Clouds**
+  <br>
+  **Shaoke Fang**, **Qingsong Liu**, and Wenfei Wu
+  <br>
+  65th IEEE Global Communications Conference. **Globecom 2021**.
+  
+## Journal Papers
 
-<!-- ## Services
+- **Simultaneously Achieving Sublinear Regret and Constraint Violations for Online Convex Optimization with Time-varying Constraints**
+  <br>
+  **Qingsong Liu**, Wenfei Wu, Longbo Huang, and Zhixuan Fang
+  <br>
+  Elsevier's Performance Evaluation (PEVA), volume 152, 2021. (Also appears in ACM/IFIP Performance 2021)
 
-- Co-organizer: [ACM MM Asia 2020](https://mmasia2020.org/).
-- Conference Reviewers: [NeurIPS 2020](https://neurips.cc/Conferences/2020), and [CVPR 2020](http://cvpr2020.thecvf.com/).
-- Journal Reviewers: [T-PAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), and [IJCV](https://www.springer.com/journal/11263). -->
+## Services
+
+- Conference Reviewers: [AISTATS 2022](https://virtual.aistats.org/), and [CDC 2022](https://cdc2022.ieeecss.org/).
+- Journal Reviewers: [TON](https://newslab.ece.ohio-state.edu/ton/), and [JSAC](https://www.comsoc.org/publications/journals/ieee-jsac).
 
 ## Teaching
 
