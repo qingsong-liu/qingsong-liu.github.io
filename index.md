@@ -26,8 +26,6 @@ I am a Ph.D. student at Institute for Interdisciplinary Information Sciences (II
   **Qingsong Liu**, Weihang Xu, Siwei Wang, and Zhixuan Fang
   <br>
   36th Conference on Neural Information Processing Systems. **NeurIPS 2022**.
-  <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] [[Project](https://mnemonics.yyliu.net/)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
 
 - **Online Convex Optimization with Switching Costs: Algorithms and Performance**
   <br>
@@ -49,7 +47,7 @@ I am a Ph.D. student at Institute for Interdisciplinary Information Sciences (II
   
 - **“HyperNAT: Scaling Up Network AddressTranslation with SmartNICs for Clouds**
   <br>
-  **Shaoke Fang**, **Qingsong Liu**, and Wenfei Wu
+  Shaoke Fang*, **Qingsong Liu**, and Wenfei Wu
   <br>
   65th IEEE Global Communications Conference. **Globecom 2021**.
   
@@ -68,5 +66,5 @@ I am a Ph.D. student at Institute for Interdisciplinary Information Sciences (II
 
 ## Teaching
 
-- CS4243 Computer Vision and Pattern Recognition AY21/22 Sem1, **Teaching Assistant**
-- CS4243 Computer Vision and Pattern Recognition AY20/21 Sem1, **Teaching Assistant**
+- Game Theory, Institute for Interdisciplinary Information Sciences(IIIS), Tsinghua University, **Teaching Assistant**
+- Security Technologies in Cyberspace, Institute for Interdisciplinary Information Sciences(IIIS), Tsinghua University, **Teaching Assistant**
