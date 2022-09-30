@@ -47,7 +47,7 @@ I am a Ph.D. student at Institute for Interdisciplinary Information Sciences (II
   
 - **“HyperNAT: Scaling Up Network AddressTranslation with SmartNICs for Clouds**
   <br>
-  Shaoke Fang*, **Qingsong Liu**, and Wenfei Wu
+  Shaoke Fang*, **Qingsong Liu***, and Wenfei Wu
   <br>
   65th IEEE Global Communications Conference. **Globecom 2021**.
   
