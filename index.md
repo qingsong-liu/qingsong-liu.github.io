@@ -44,7 +44,7 @@ I am a Ph.D. student at Institute for Interdisciplinary Information Sciences (II
   <br>
   39th International Symposium on Computer Performance, Modeling, Measurements and Evaluation. **Performance 2021**.
   
-- **HyperNAT: Scaling Up Network AddressTranslation with SmartNICs for Clouds**
+- **HyperNAT: Scaling Up Network Address Translation with SmartNICs for Clouds**
   <br>
   **Shaoke Fang**, **Qingsong Liu**, and Wenfei Wu (Fang and Liu contributed equally to this work)
   <br>
