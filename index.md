@@ -59,6 +59,12 @@ I am a Ph.D. student at Institute for Interdisciplinary Information Sciences (II
   <br>
   Elsevier's Performance Evaluation (PEVA), volume 152, 2021. (Also appears in ACM/IFIP Performance 2021)
 
+## Selected Working Papers
+
+- **Learning-based Scheduling for Information Gathering with QoS Constraints**
+- **Learning to Schedule Tasks with Deadline and Throughput Constraints**
+  
+
 ## Services
 
 - Conference Reviewers: [AISTATS 2022](https://virtual.aistats.org/), and [CDC 2022](https://cdc2022.ieeecss.org/).
