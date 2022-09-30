@@ -52,7 +52,7 @@ I am a Ph.D. student at Institute for Interdisciplinary Information Sciences (II
  
 - **T2DNS: A Third-Party DNS Service with Privacy Preservation and Trustworthiness**
   <br>
-  **Qingsong Liu**, Wenfei Wu, and Qun Huang
+  Qingxiu Liu, Wenfei Wu, **Qingsong Liu**, and Qun Huang
   <br>
   29th International Conference on Computer Communications and Networks. **ICCCN 2020**.
   
