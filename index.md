@@ -51,7 +51,7 @@ I am a Ph.D. student at Institute for Interdisciplinary Information Sciences (II
   <br>
   65th IEEE Global Communications Conference. **Globecom 2021**.
   
-## Journal Paperse
+## Journal Papers
 
 - **Simultaneously Achieving Sublinear Regret and Constraint Violations for Online Convex Optimization with Time-varying Constraints**
   <br>
