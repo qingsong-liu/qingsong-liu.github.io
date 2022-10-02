@@ -50,11 +50,6 @@ I am a Ph.D. student at Institute for Interdisciplinary Information Sciences (II
   <br>
   65th IEEE Global Communications Conference. **Globecom 2021**.
  
-- **T2DNS: A Third-Party DNS Service with Privacy Preservation and Trustworthiness**
-  <br>
-  Qingxiu Liu, Wenfei Wu, **Qingsong Liu**, and Qun Huang
-  <br>
-  29th International Conference on Computer Communications and Networks. **ICCCN 2020**.
   
 ## Journal Papers
 
