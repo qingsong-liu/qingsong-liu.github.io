@@ -46,7 +46,7 @@ I am a Ph.D. student at Institute for Interdisciplinary Information Sciences (II
   
 - **HyperNAT: Scaling Up Network Address Translation with SmartNICs for Clouds**
   <br>
-  Shaoke Fang (co-primary), **Qingsong Liu**(co-primary), and Wenfei Wu
+  Shaoke Fang (co-primary), **Qingsong Liu** (co-primary), and Wenfei Wu
   <br>
   65th IEEE Global Communications Conference. **Globecom 2021**.
  
@@ -57,7 +57,7 @@ I am a Ph.D. student at Institute for Interdisciplinary Information Sciences (II
   <br>
   **Qingsong Liu**, Wenfei Wu, Longbo Huang, and Zhixuan Fang
   <br>
-  Elsevier's Performance Evaluation (PEVA), volume 152, 2021. (Also appears in ACM/IFIP Performance 2021)
+  Elsevier's Performance Evaluation (PEVA), volume 152, 2021. (Journal version of the conference paper)
 
 ## Selected Working Papers
 
