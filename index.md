@@ -8,8 +8,8 @@ I am a Ph.D. student at Institute for Interdisciplinary Information Sciences (II
 
 ## Research Interests
 
-- **Constrained Online Learning**
-- **Constrained Online Learning in Computer Systems and Communication Networks**
+- **Constrained Online Learning**, **Multi-agent Online Learning**
+- **Online Learning in Computer Systems and Communication Networks**
 
 ## News
 
