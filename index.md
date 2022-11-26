@@ -57,7 +57,7 @@ I am a Ph.D. student at Institute for Interdisciplinary Information Sciences (II
   <br>
   **Qingsong Liu**, Wenfei Wu, Longbo Huang, and Zhixuan Fang
   <br>
-  Elsevier's Performance Evaluation (PEVA), volume 152, 2021. (Journal version of the conference paper)
+  Elsevier's Performance Evaluation (PEVA), volume 152, 2021.
 
 ## Selected Working Papers
 
