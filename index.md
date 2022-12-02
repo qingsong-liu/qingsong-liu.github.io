@@ -13,12 +13,24 @@ I am a Ph.D. student at Institute for Interdisciplinary Information Sciences (II
 
 ## News
 
+- **[December 2022]** Two papers accepted to INFOCOM 2023!
 - **[September 2022]** One paper accepted to NeurIPS 2022!
-- **[Augest 2022]** One paper accepted to CNSM 2022!
 - **[July 2022]** One paper accepted to WiOpt 2022!
 
 
 ## Selected Conference Papers
+
+- **Learning to Schedule Tasks with Deadline and Throughput Constraints**
+  <br>
+  **Qingsong Liu**, Zhixuan Fang
+  <br>
+  36th IEEE International Conference on Computer Communications. **INFOCOM 2023**.
+  
+- **No-regret Caching for Partial-observation Regime**
+  <br>
+  Zifang Jia (co-primary), **Qingsong Liu** (co-primary), Xiaoyan Gu, Jiang Zhou, Feifei Dai, Bo Li, and Weiping Wang
+  <br>
+  36th IEEE International Conference on Computer Communications. **INFOCOM 2023**.
 
 - **Combinatorial Bandits with Linear Constraints: Beyond Knapsacks and Fairness**
   <br>
@@ -34,7 +46,7 @@ I am a Ph.D. student at Institute for Interdisciplinary Information Sciences (II
 
 - **Learning to Caching Under the Partial-feedback Regime**
   <br>
-  **Qingsong Liu**, Yaoyu Zhang
+  **Qingsong Liu** (co-primary), Yaoyu Zhang (co-primary)
   <br>
   18th International Conference on Network and Service Management. **CNSM 2022**.
   
