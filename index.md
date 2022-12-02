@@ -74,7 +74,7 @@ I am a Ph.D. student at Institute for Interdisciplinary Information Sciences (II
 ## Selected Working Papers
 
 - **Learning-based Scheduling for Information Gathering with QoS Constraints**
-- **Learning to Schedule Tasks with Deadline and Throughput Constraints**
+
   
 
 ## Services
