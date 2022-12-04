@@ -44,11 +44,6 @@ I am a Ph.D. student at Institute for Interdisciplinary Information Sciences (II
   <br>
   20th International Symposium on Modeling and Optimization in Mobile, Ad Hoc and Wireless Networks. **WiOpt 2022**.
 
-- **Learning to Caching Under the Partial-feedback Regime**
-  <br>
-  **Qingsong Liu** (co-primary), Yaoyu Zhang (co-primary)
-  <br>
-  18th International Conference on Network and Service Management. **CNSM 2022**.
   
 - **Simultaneously Achieving Sublinear Regret and Constraint Violations for Online Convex Optimization with Time-varying Constraints**
   <br>
