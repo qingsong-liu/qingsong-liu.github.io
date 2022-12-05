@@ -28,7 +28,7 @@ I am a Ph.D. student at Institute for Interdisciplinary Information Sciences (II
   
 - **No-regret Caching for Partial-observation Regime**
   <br>
-  (*alphabetic order) Zifang Jia*, **Qingsong Liu***, Xiaoyan Gu, Jiang Zhou, Feifei Dai, Bo Li, and Weiping Wang
+  (*alphabetical order) Zifang Jia*, **Qingsong Liu***, Xiaoyan Gu, Jiang Zhou, Feifei Dai, Bo Li, and Weiping Wang
   <br>
   36th IEEE International Conference on Computer Communications. **INFOCOM 2023**.
 
@@ -53,7 +53,7 @@ I am a Ph.D. student at Institute for Interdisciplinary Information Sciences (II
   
 - **HyperNAT: Scaling Up Network Address Translation with SmartNICs for Clouds**
   <br>
-  Shaoke Fang (co-primary), **Qingsong Liu** (co-primary), and Wenfei Wu
+  (*co-primary) Shaoke Fang*, **Qingsong Liu***, and Wenfei Wu
   <br>
   65th IEEE Global Communications Conference. **Globecom 2021**.
  
