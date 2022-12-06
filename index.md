@@ -28,7 +28,7 @@ I am a Ph.D. student at Institute for Interdisciplinary Information Sciences (II
   
 - **No-regret Caching for Partial-observation Regime**
   <br>
-  Zifang Jia (co-primary), **Qingsong Liu** (co-primary), Xiaoyan Gu, Jiang Zhou, Feifei Dai, Bo Li, and Weiping Wang
+  Zifan Jia (co-primary), **Qingsong Liu** (co-primary), Xiaoyan Gu, Jiang Zhou, Feifei Dai, Bo Li, and Weiping Wang
   <br>
   36th IEEE International Conference on Computer Communications. **INFOCOM 2023**.
 
