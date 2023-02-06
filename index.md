@@ -51,14 +51,15 @@ I am a Ph.D. student at Institute for Interdisciplinary Information Sciences (II
   <br>
   39th International Symposium on Computer Performance, Modeling, Measurements and Evaluation. **Performance 2021**.
   
-- **HyperNAT: Scaling Up Network Address Translation with SmartNICs for Clouds**
-  <br>
-  Shaoke Fang (co-primary), **Qingsong Liu** (co-primary), and Wenfei Wu
-  <br>
-  65th IEEE Global Communications Conference. **Globecom 2021**.
  
   
 ## Journal Papers
+
+- **The Optimal Dynamic Regret for Smoothed Online Convex Optimization with Squared l2 Norm Switching Cost**
+  <br>
+  Yaoyu Zhang (co-primary), **Qingsong Liu** (co-primary), Jian Sun, and Chenye Wu
+  <br>
+  Journal of the Franklin Institute, 2023 (Preliminary version has been accepted to American Control Conference 2022).
 
 - **Simultaneously Achieving Sublinear Regret and Constraint Violations for Online Convex Optimization with Time-varying Constraints**
   <br>
