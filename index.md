@@ -32,6 +32,13 @@ I am a Ph.D. student at Institute for Interdisciplinary Information Sciences (II
   <br>
   36th IEEE International Conference on Computer Communications. **INFOCOM 2023**.
 
+- **Learning to Caching Under the Partial-feedback Regime**
+  <br>
+  **Qingsong Liu** (co-primary), Yaoyu Zhang (co-primary)
+  <br>
+  18th IEEE International Conference on Network and Service Management. **CNSM 2022**.
+  
+
 - **Combinatorial Bandits with Linear Constraints: Beyond Knapsacks and Fairness**
   <br>
   **Qingsong Liu**, Weihang Xu, Siwei Wang, and Zhixuan Fang
@@ -59,7 +66,7 @@ I am a Ph.D. student at Institute for Interdisciplinary Information Sciences (II
   <br>
   Yaoyu Zhang (co-primary), **Qingsong Liu** (co-primary), Jian Sun, and Chenye Wu
   <br>
-  Journal of the Franklin Institute, 2023 (Preliminary version has been accepted to American Control Conference 2022).
+  Journal of the Franklin Institute, 2023 (Part of this work is presented in American Control Conference 2022).
 
 - **Simultaneously Achieving Sublinear Regret and Constraint Violations for Online Convex Optimization with Time-varying Constraints**
   <br>
