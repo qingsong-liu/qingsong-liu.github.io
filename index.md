@@ -26,11 +26,6 @@ I am a Ph.D. student at Institute for Interdisciplinary Information Sciences (II
   <br>
   36th IEEE International Conference on Computer Communications. **INFOCOM 2023**.
   
-- **No-regret Caching for Partial-observation Regime**
-  <br>
-  Zifan Jia (co-primary), **Qingsong Liu** (co-primary), Xiaoyan Gu, Jiang Zhou, Feifei Dai, Bo Li, and Weiping Wang
-  <br>
-  36th IEEE International Conference on Computer Communications. **INFOCOM 2023**.
 
 - **Learning to Caching Under the Partial-feedback Regime**
   <br>
