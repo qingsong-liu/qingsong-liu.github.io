@@ -32,7 +32,7 @@ I am a Ph.D. student at Institute for Interdisciplinary Information Sciences (II
   <br>
   **Qingsong Liu**, Weihang Xu, Siwei Wang, and Zhixuan Fang
   <br>
-  36th Conference on Neural Information Processing Systems. **NeurIPS 2022**.
+  36th Annual Conference on Neural Information Processing Systems. **NeurIPS 2022**.
 
 - **Online Convex Optimization with Switching Costs: Algorithms and Performance**
   <br>
