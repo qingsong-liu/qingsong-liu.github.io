@@ -26,12 +26,6 @@ I am a Ph.D. student at Institute for Interdisciplinary Information Sciences (II
   <br>
   36th IEEE International Conference on Computer Communications. **INFOCOM 2023**.
   
-
-- **Learning to Caching Under the Partial-feedback Regime**
-  <br>
-  **Qingsong Liu** (co-primary), Yaoyu Zhang (co-primary)
-  <br>
-  18th IEEE International Conference on Network and Service Management. **CNSM 2022**.
   
 
 - **Combinatorial Bandits with Linear Constraints: Beyond Knapsacks and Fairness**
