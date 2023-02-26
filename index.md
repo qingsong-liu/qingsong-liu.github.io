@@ -28,7 +28,7 @@ I am a Ph.D. student at Institute for Interdisciplinary Information Sciences (II
 
 - **Learning to Schedule Tasks with Deadline and Throughput Constraints**
   <br>
-  **Qingsong Liu**, Zhixuan Fang
+  **Qingsong Liu** and Zhixuan Fang
   <br>
   36th IEEE International Conference on Computer Communications. **INFOCOM 2023**.
   
