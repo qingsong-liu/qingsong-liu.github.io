@@ -21,11 +21,7 @@ I am a Ph.D. student at Institute for Interdisciplinary Information Sciences (II
 ## Selected Conference Papers
 
 
-- **Learning to Regularized Resource Allocation with Budget Constraints**
-  <br>
-  Shaoke Fang (co-primary), **Qingsong Liu** (co-primary), Lei Xu, and Wenfei Wu
-  <br>
-  48th IEEE International Conference on Acoustics, Speech, and Signal Processing. **ICASSP 2023**.
+
 
 - **No-regret Caching for Partial-observation Regime**
   <br>
