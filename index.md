@@ -13,7 +13,7 @@ I am a Ph.D. student at Institute for Interdisciplinary Information Sciences (II
 
 ## News
 
-- **[December 2022]** One paper accepted to INFOCOM 2023!
+- **[December 2022]** Two papers accepted to INFOCOM 2023!
 - **[September 2022]** One paper accepted to NeurIPS 2022!
 - **[July 2022]** One paper accepted to WiOpt 2022!
 
@@ -23,7 +23,11 @@ I am a Ph.D. student at Institute for Interdisciplinary Information Sciences (II
 
 
 
-
+- **No-regret Caching for Partial-observation Regime**
+  <br>
+  Zifan Jia (co-primary), **Qingsong Liu** (co-primary), Xiaoyan Gu, Jiang Zhou, Feifei Dai, Bo Li, and Weiping Wang
+  <br>
+  36th IEEE International Conference on Computer Communications. **INFOCOM 2023**.
 
 - **Learning to Schedule Tasks with Deadline and Throughput Constraints**
   <br>
