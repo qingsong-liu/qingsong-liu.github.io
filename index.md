@@ -29,7 +29,12 @@ I am a Ph.D. student at Institute for Interdisciplinary Information Sciences (II
   **Qingsong Liu** and Zhixuan Fang
   <br>
   36th IEEE International Conference on Computer Communications. **INFOCOM 2023**.
-  
+
+- **No-regret Caching for Partial-observation Regime**
+  <br>
+  Zifan Jia (co-primary), **Qingsong Liu** (co-primary), Xiaoyan Gu, Jiang Zhou, Feifei Dai, Bo Li, and Weiping Wang
+  <br>
+  36th IEEE International Conference on Computer Communications. **INFOCOM 2023**.
 
 - **Combinatorial Bandits with Linear Constraints: Beyond Knapsacks and Fairness**
   <br>
@@ -66,9 +71,6 @@ I am a Ph.D. student at Institute for Interdisciplinary Information Sciences (II
   <br>
   Elsevier's Performance Evaluation (PEVA), volume 152, 2021.
 
-## Selected Working Papers
-
-- **Learning-based Scheduling for Information Gathering with QoS Constraints**
 
   
 
