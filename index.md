@@ -13,7 +13,7 @@ I am a Ph.D. student at Institute for Interdisciplinary Information Sciences (II
 
 ## Recent News
 
-- **[December 2022]** One papers accepted to INFOCOM 2023!
+- **[December 2022]** Two papers accepted to INFOCOM 2023!
 - **[September 2022]** One paper accepted to NeurIPS 2022!
 
 
@@ -34,7 +34,7 @@ I am a Ph.D. student at Institute for Interdisciplinary Information Sciences (II
   <br>
   Zifan Jia (co-primary), **Qingsong Liu** (co-primary), Xiaoyan Gu, Jiang Zhou, Feifei Dai, Bo Li, and Weiping Wang
   <br>
-  36th IEEE International Conference on Computer Communications. **INFOCOM 2022**.
+  36th IEEE International Conference on Computer Communications. **INFOCOM 2023**.
 
 
 - **Combinatorial Bandits with Linear Constraints: Beyond Knapsacks and Fairness**
