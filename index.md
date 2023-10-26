@@ -11,11 +11,10 @@ I am a Ph.D. student at Institute for Interdisciplinary Information Sciences (II
 - **Constrained Online Learning**, **Multi-agent Online Learning**
 - **Online Learning in Computer Systems and Communication Networks**
 
-## News
+## Recent News
 
-- **[December 2022]** Two papers accepted to INFOCOM 2023!
+- **[December 2022]** One papers accepted to INFOCOM 2023!
 - **[September 2022]** One paper accepted to NeurIPS 2022!
-- **[July 2022]** One paper accepted to WiOpt 2022!
 
 
 ## Selected Conference Papers
@@ -35,7 +34,7 @@ I am a Ph.D. student at Institute for Interdisciplinary Information Sciences (II
   <br>
   Zifan Jia (co-primary), **Qingsong Liu** (co-primary), Xiaoyan Gu, Jiang Zhou, Feifei Dai, Bo Li, and Weiping Wang
   <br>
-  36th IEEE International Conference on Computer Communications. **INFOCOM 2023**.
+  36th IEEE International Conference on Computer Communications. **INFOCOM 2022**.
 
 
 - **Combinatorial Bandits with Linear Constraints: Beyond Knapsacks and Fairness**
