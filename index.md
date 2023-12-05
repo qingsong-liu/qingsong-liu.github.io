@@ -65,11 +65,6 @@ I am a Ph.D. student at Institute for Interdisciplinary Information Sciences (II
   
 ## Journal Papers
 
-- **Smoothed Online Decision Making in Communication: Algorithms and Applications**
-  <br>
-  **Qingsong Liu**, Zhuoran Li, and Zhixuan Fang
-  <br>
-  IEEE Journal on Selected Areas in Communications, to appear.
 
 
 - **The Optimal Dynamic Regret for Smoothed Online Convex Optimization with Squared l2 Norm Switching Cost**
