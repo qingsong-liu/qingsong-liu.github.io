@@ -20,6 +20,12 @@ I am a Ph.D. student at Institute for Interdisciplinary Information Sciences (II
 ## Selected Conference Papers
 
 
+- **Decentralized Scheduling with QoS Constraints: Achieving O(1) QoS regret of Multi-player Bandits**
+  <br>
+  **Qingsong Liu** and Zhixuan Fang
+  <br>
+  38th AAAI Conference on Artificial Intelligence. **AAAI 2024**.
+  
 
 - **Learning-based Scheduling for Information Gathering with QoS Constraints**
   <br>
