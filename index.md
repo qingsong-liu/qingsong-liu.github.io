@@ -80,7 +80,8 @@ I am a Ph.D. student at Institute for Interdisciplinary Information Sciences (II
   
  
   
-## Journal Papers (* indicates equal contributions)
+## Journal Papers
+
 
 
 - **Online Task Scheduling and Termination with Throughput Constraint**
