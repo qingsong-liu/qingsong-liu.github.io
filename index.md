@@ -109,7 +109,7 @@ I am a Ph.D. student at Institute for Interdisciplinary Information Sciences (II
 ## Services
 
 - Conference Reviewers: [CDC 2022](https://cdc2022.ieeecss.org/), [AISTATS 2023](https://virtual.aistats.org/), and [NeurIPS 2024](https://neurips.cc/)
-- Journal Reviewers: [IEEE TMC](https://www.computer.org/csdl/journal/tm/), [IEEE TNNLS](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems/), [Neural Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6720226), [ACM TOMPECS](https://dl.acm.org/journal/tompecs), and [IEE/ACM TON]([https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=90])
+- Journal Reviewers: [IEEE TMC](https://www.computer.org/csdl/journal/tm/), [IEEE TNNLS](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems/), [Neural Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6720226), [ACM TOMPECS](https://dl.acm.org/journal/tompecs), and [IEE/ACM TON](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=90)
 
 ## Teaching
 
