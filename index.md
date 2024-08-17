@@ -82,6 +82,11 @@ I am a Ph.D. student at Institute for Interdisciplinary Information Sciences (II
   
 ## Journal Papers
 
+- **Optimal Caching for Partial-observation Regime and Beyond**
+  <br>
+  Zifan Jia\*, **Qingsong Liu\***, Jiang Zhou, Xiaoyan Gu, Yaoyu Zhang, Bo Li, and Weiping Wang
+  <br>
+  Journal of the Franklin Institute, 2024.
 
 
 - **Online Task Scheduling and Termination with Throughput Constraint**
