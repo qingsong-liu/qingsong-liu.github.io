@@ -29,11 +29,6 @@ I received my Ph.D. from the Institute for Interdisciplinary Information Science
   <br>
   54th ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems. **Sigmetrics 2024**.
 
-- **Decentralized Scheduling with QoS Constraints: Achieving O(1) QoS regret of Multi-player Bandits**
-  <br>
-  **Qingsong Liu** and Zhixuan Fang
-  <br>
-  38th AAAI Conference on Artificial Intelligence. **AAAI 2024**.
 
 - **Adversarial Combinatorial Bandits with Switching Cost and Arm Selection Constraints**
   <br>
@@ -46,6 +41,12 @@ I received my Ph.D. from the Institute for Interdisciplinary Information Science
   **Qingsong Liu**, Weihang Xu, and Zhixuan Fang
   <br>
   37th IEEE International Conference on Computer Communications. **INFOCOM 2024**.
+
+- **Decentralized Scheduling with QoS Constraints: Achieving O(1) QoS regret of Multi-player Bandits**
+  <br>
+  **Qingsong Liu** and Zhixuan Fang
+  <br>
+  38th AAAI Conference on Artificial Intelligence. **AAAI 2024**.
 
 
 - **Learning to Schedule Tasks with Deadline and Throughput Constraints**
