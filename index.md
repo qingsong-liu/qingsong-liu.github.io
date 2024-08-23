@@ -4,15 +4,16 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University, supervised by Prof. [Zhixuan Fang](https://people.iiis.tsinghua.edu.cn/~fang/). I achieved my Bachelor's degree at Department of Electronic Engineering of Tsinghua University. Previsouly, I worked with Prof. [Wenfei Wu](https://wenfei-wu.github.io/).
+I received my Ph.D. from the Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University, where I was supervised by Prof. [Zhixuan Fang](https://people.iiis.tsinghua.edu.cn/~fang/). Before that, I achieved my Bachelor's degree at the Department of Electronic Engineering of Tsinghua University and worked with Prof. [Wenfei Wu](https://wenfei-wu.github.io/).
 
 ## Research Interests
 
-- **Constrained Online Optimization**, **Online Learning**
-- **Online Optimization in Computer Systems and Communication Networks**
+- **Constrained Online Optimization and Learning**, **Stochastic Network Optimization**
+- **Modeling and Optimization in the Computer Systems and Communication Networks**
 
 ## Recent News
 
+- **[June 2024]** I successfully passed my Ph.D. thesis defense!
 - **[June 2024]** One paper accepted to IEEE/ACM TON!
 - **[March 2024]** One paper accepted to Sigmetrics 2024!
 - **[December 2023]** One paper accepted to AAAI 2024!
@@ -33,7 +34,12 @@ I am a Ph.D. student at Institute for Interdisciplinary Information Sciences (II
   **Qingsong Liu** and Zhixuan Fang
   <br>
   38th AAAI Conference on Artificial Intelligence. **AAAI 2024**.
-  
+
+- **Adversarial Combinatorial Bandits with Switching Cost and Arm Selection Constraints**
+  <br>
+  Yin Huang\*, **Qingsong Liu\***, and Jie Xu
+  <br>
+  37th IEEE International Conference on Computer Communications. **INFOCOM 2024**.
 
 - **Learning-based Scheduling for Information Gathering with QoS Constraints**
   <br>
@@ -41,12 +47,6 @@ I am a Ph.D. student at Institute for Interdisciplinary Information Sciences (II
   <br>
   37th IEEE International Conference on Computer Communications. **INFOCOM 2024**.
 
-- **Adversarial Combinatorial Bandits with Switching Cost and Arm Selection Constraints**
-  <br>
-  Yin Huang\*, **Qingsong Liu\***, and Jie Xu
-  <br>
-  37th IEEE International Conference on Computer Communications. **INFOCOM 2024**.
-  
 
 - **Learning to Schedule Tasks with Deadline and Throughput Constraints**
   <br>
@@ -80,7 +80,7 @@ I am a Ph.D. student at Institute for Interdisciplinary Information Sciences (II
   
  
   
-## Selected Journal Papers
+## Journal Papers
 
 - **Optimal Caching for Partial-observation Regime and Beyond**
   <br>
