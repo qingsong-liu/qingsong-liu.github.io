@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I received my Ph.D. from the Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University, where I was supervised by Prof. [Zhixuan Fang](https://people.iiis.tsinghua.edu.cn/~fang/). Before that, I achieved my Bachelor's degree at the Department of Electronic Engineering of Tsinghua University and worked with Prof. [Wenfei Wu](https://wenfei-wu.github.io/).
+I am currently a Postdoctoral research associate at UMass CICS, working with Prof. [Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/). Before joining UMass, I received my Ph.D. from the Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University, where I was supervised by Prof. [Zhixuan Fang](https://people.iiis.tsinghua.edu.cn/~fang/). Prior to that, I achieved my Bachelor's degree at the Department of Electronic Engineering of Tsinghua University and worked with Prof. [Wenfei Wu](https://wenfei-wu.github.io/).
 
 ## Research Interests
 
@@ -13,6 +13,7 @@ I received my Ph.D. from the Institute for Interdisciplinary Information Science
 
 ## Recent News
 
+- **[October 2024]** One paper accepted to IEEE/ACM TON!
 - **[June 2024]** I successfully passed my Ph.D. thesis defense!
 - **[June 2024]** One paper accepted to IEEE/ACM TON!
 - **[March 2024]** One paper accepted to Sigmetrics 2024!
@@ -83,6 +84,13 @@ I received my Ph.D. from the Institute for Interdisciplinary Information Science
   
 ## Journal Papers
 
+
+- **Smoothed Online Decision Making in Communication: Algorithms and Applications**
+  <br>
+  **Qingsong Liu**, Zhuoran Li, and Zhixuan Fang
+  <br>
+  IEEE/ACM Transactions on Networking, 2024.
+
 - **Optimal Caching for Partial-observation Regime and Beyond**
   <br>
   Zifan Jia\*, **Qingsong Liu\***, Jiang Zhou, Xiaoyan Gu, Yaoyu Zhang, Bo Li, and Weiping Wang
@@ -95,7 +103,6 @@ I received my Ph.D. from the Institute for Interdisciplinary Information Science
   **Qingsong Liu** and Zhixuan Fang
   <br>
   IEEE/ACM Transactions on Networking, 2024.
-
 
 
 - **Simultaneously Achieving Sublinear Regret and Constraint Violations for Online Convex Optimization with Time-varying Constraints**
