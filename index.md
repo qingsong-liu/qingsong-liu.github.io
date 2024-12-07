@@ -23,6 +23,11 @@ I am currently a Postdoctoral Research Associate at UMass CICS, working with Pro
 
 ## Selected Conference Papers (* indicates equal contributions)
 
+- **Learning to Optimize Resource Utilization with QoS Guarantees**
+  <br>
+  Zifan Jia, Haihui Fan, Xiaoyan Gu, Bo Li, Weiping Wang, and **Qingsong Liu\*** (project leader)
+  <br>
+  38th IEEE International Conference on Computer Communications. **INFOCOM 2025**.
   
 - **Learning the Optimal Control for Evolving Systems with Converging Dynamics**
   <br>
