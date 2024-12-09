@@ -18,7 +18,7 @@ I am currently a Postdoctoral Research Associate at UMass CICS, working with Pro
 - **[June 2024]** One paper accepted to IEEE/ACM TON!
 - **[March 2024]** One paper accepted to Sigmetrics 2024!
 - **[December 2023]** One paper accepted to AAAI 2024!
-- **[December 2023]** Two paper accepted to INFOCOM 2024!
+- **[December 2023]** Two papers accepted to INFOCOM 2024!
 
 
 ## Selected Conference Papers (* indicates equal contributions)
