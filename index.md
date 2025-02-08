@@ -36,15 +36,16 @@ I am currently a Postdoctoral Research Associate at UMass CICS, working with Pro
   54th ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems. **Sigmetrics 2024**.
 
 
-- **Adversarial Combinatorial Bandits with Switching Cost and Arm Selection Constraints**
-  <br>
-  Yin Huang\*, **Qingsong Liu\***, and Jie Xu
-  <br>
-  37th IEEE International Conference on Computer Communications. **INFOCOM 2024**.
 
 - **Learning-based Scheduling for Information Gathering with QoS Constraints**
   <br>
   **Qingsong Liu**, Weihang Xu, and Zhixuan Fang
+  <br>
+  37th IEEE International Conference on Computer Communications. **INFOCOM 2024**.
+
+- **Adversarial Combinatorial Bandits with Switching Cost and Arm Selection Constraints**
+  <br>
+  Yin Huang\*, **Qingsong Liu\***, and Jie Xu
   <br>
   37th IEEE International Conference on Computer Communications. **INFOCOM 2024**.
 
