@@ -13,7 +13,9 @@ I am currently a Postdoctoral Research Associate at UMass CICS, working with Pro
 
 ## Recent News
 
+- **[December 2024]** One paper accepted to IEEE INFOCOM!
 - **[October 2024]** One paper accepted to IEEE/ACM TON!
+- **[July 2024]** I received Tsinghua University Outstanding Doctoral Dissertation Award!
 - **[June 2024]** I successfully passed my Ph.D. thesis defense!
 - **[June 2024]** One paper accepted to IEEE/ACM TON!
 - **[March 2024]** One paper accepted to Sigmetrics 2024!
