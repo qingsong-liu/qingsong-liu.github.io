@@ -51,7 +51,7 @@ I am currently a Postdoctoral Research Associate at the University of Massachuse
   <br>
   37th IEEE International Conference on Computer Communications. **INFOCOM 2024**.
 
-- **Decentralized Scheduling with QoS Constraints: Achieving O(1) QoS regret of Multi-player Bandits**
+- **Decentralized Scheduling with QoS Constraints: Achieving O(1) QoS regret**
   <br>
   **Qingsong Liu** and Zhixuan Fang
   <br>
