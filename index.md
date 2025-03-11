@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a Postdoctoral Research Associate at the University of Massachusetts (UMass) Amherst, working with Prof. [Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/). Before joining UMass, I received my Ph.D. from the Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University, where I was supervised by Prof. [Zhixuan Fang](https://people.iiis.tsinghua.edu.cn/~fang/). Prior to that, I achieved my Bachelor's degree at the Department of Electronic Engineering of Tsinghua University and worked with Prof. [Wenfei Wu](https://wenfei-wu.github.io/).
+I am currently a Postdoctoral Research Associate at the University of Massachusetts (UMass) Amherst, working with Prof. [Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/) since October 2024. Before joining UMass, I received my Ph.D. in July 2024 from the Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University, where I was supervised by Prof. [Zhixuan Fang](https://people.iiis.tsinghua.edu.cn/~fang/). Prior to that, I achieved my Bachelor's degree in July 2019 at the Department of Electronic Engineering of Tsinghua University and worked with Prof. [Wenfei Wu](https://wenfei-wu.github.io/).
 
 ## Research Interests
 
