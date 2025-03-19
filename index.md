@@ -13,6 +13,7 @@ I am currently a Postdoctoral Research Associate at the University of Massachuse
 
 ## Recent News
 
+- **[March 2025]** One paper accepted to Sigmetrics 2025!
 - **[December 2024]** One paper accepted to IEEE INFOCOM!
 - **[October 2024]** One paper accepted to IEEE/ACM TON!
 - **[July 2024]** I received Tsinghua University Outstanding Doctoral Dissertation Award!
@@ -24,6 +25,14 @@ I am currently a Postdoctoral Research Associate at the University of Massachuse
 
 
 ## Selected Conference Papers (* indicates equal contributions)
+
+
+- **Online Fair Allocation of Reusable Resources**
+  <br>
+  **Qingsong Liu** and Mohammad Hajiesmaili
+  <br>
+  55th ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems. **Sigmetrics 2025**.
+
 
 - **Learning to Optimize Resource Utilization with QoS Guarantees**
   <br>
