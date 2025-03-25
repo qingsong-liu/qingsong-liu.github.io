@@ -8,8 +8,8 @@ I am currently a Postdoctoral Research Associate at the University of Massachuse
 
 ## Research Interests
 
-- **Constrained Online Optimization and Learning**, **Stochastic Network Optimization**
-- **Modeling and Optimization in the Computer Systems and Communication Networks**
+- **Constrained Online Optimization and Learning**
+- **Modeling and Optimization in Computer Systems and Communication Networks**
 
 ## Recent News
 
