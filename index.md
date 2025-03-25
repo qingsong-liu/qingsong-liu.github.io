@@ -31,20 +31,20 @@ I am currently a Postdoctoral Research Associate at the University of Massachuse
   <br>
   **Qingsong Liu** and Mohammad Hajiesmaili
   <br>
-  55th ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems. **Sigmetrics 2025**.
+  55th ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems. **ACM Sigmetrics 2025**.
 
 
 - **Learning to Optimize Resource Utilization with QoS Guarantees**
   <br>
   Zifan Jia\*, **Qingsong Liu\***, Haihui Fan, Xiaoyan Gu, Bo Li, and Weiping Wang
   <br>
-  38th IEEE International Conference on Computer Communications. **INFOCOM 2025**.
+  38th IEEE International Conference on Computer Communications. **IEEE INFOCOM 2025**.
   
 - **Learning the Optimal Control for Evolving Systems with Converging Dynamics**
   <br>
   **Qingsong Liu** and Zhixuan Fang
   <br>
-  54th ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems. **Sigmetrics 2024**.
+  54th ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems. **ACM Sigmetrics 2024**.
 
 
 
@@ -52,13 +52,13 @@ I am currently a Postdoctoral Research Associate at the University of Massachuse
   <br>
   **Qingsong Liu**, Weihang Xu, and Zhixuan Fang
   <br>
-  37th IEEE International Conference on Computer Communications. **INFOCOM 2024**.
+  37th IEEE International Conference on Computer Communications. **IEEE INFOCOM 2024**.
 
 - **Adversarial Combinatorial Bandits with Switching Cost and Arm Selection Constraints**
   <br>
   Yin Huang\*, **Qingsong Liu\***, and Jie Xu
   <br>
-  37th IEEE International Conference on Computer Communications. **INFOCOM 2024**.
+  37th IEEE International Conference on Computer Communications. **IEEE INFOCOM 2024**.
 
 - **Decentralized Scheduling with QoS Constraints: Achieving O(1) QoS regret**
   <br>
@@ -71,7 +71,7 @@ I am currently a Postdoctoral Research Associate at the University of Massachuse
   <br>
   **Qingsong Liu** and Zhixuan Fang
   <br>
-  36th IEEE International Conference on Computer Communications. **INFOCOM 2023**.
+  36th IEEE International Conference on Computer Communications. **IEEE INFOCOM 2023**.
 
 
 
@@ -85,14 +85,14 @@ I am currently a Postdoctoral Research Associate at the University of Massachuse
   <br>
   **Qingsong Liu**, Zhuoran Li, and Zhixuan Fang
   <br>
-  20th International Symposium on Modeling and Optimization in Mobile, Ad Hoc and Wireless Networks. **WiOpt 2022**.
+  20th International Symposium on Modeling and Optimization in Mobile, Ad Hoc and Wireless Networks. **IEEE WiOpt 2022**.
 
   
 - **Simultaneously Achieving Sublinear Regret and Constraint Violations for Online Convex Optimization with Time-varying Constraints**
   <br>
   **Qingsong Liu**, Wenfei Wu, Longbo Huang, and Zhixuan Fang
   <br>
-  39th International Symposium on Computer Performance, Modeling, Measurements and Evaluation. **Performance 2021**.
+  39th International Symposium on Computer Performance, Modeling, Measurements and Evaluation. **IFIP Performance 2021**.
 
 
   
