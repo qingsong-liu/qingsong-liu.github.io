@@ -31,7 +31,7 @@ I am currently a Postdoctoral Research Associate at the University of Massachuse
   <br>
   **Qingsong Liu** and Mohammad Hajiesmaili
   <br>
-  55th ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems. **ACM Sigmetrics 2025**.
+  55th ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems. **ACM SIGMETRICS 2025**.
 
 
 - **Learning to Optimize Resource Utilization with QoS Guarantees**
@@ -44,7 +44,7 @@ I am currently a Postdoctoral Research Associate at the University of Massachuse
   <br>
   **Qingsong Liu** and Zhixuan Fang
   <br>
-  54th ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems. **ACM Sigmetrics 2024**.
+  54th ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems. **ACM SIGMETRICS 2024**.
 
 - **Adversarial Combinatorial Bandits with Switching Cost and Arm Selection Constraints**
   <br>
