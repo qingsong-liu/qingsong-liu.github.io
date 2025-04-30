@@ -16,7 +16,7 @@ I am currently a Postdoctoral Research Associate at the University of Massachuse
 - **[March 2025]** One paper accepted to Sigmetrics 2025!
 - **[December 2024]** One paper accepted to IEEE INFOCOM!
 - **[October 2024]** One paper accepted to IEEE/ACM TON!
-- **[July 2024]** I received Tsinghua University Outstanding Doctoral Dissertation Award!
+- **[July 2024]** I received Tsinghua University Distinguished Doctoral Dissertation Award!
 - **[June 2024]** I successfully passed my Ph.D. thesis defense!
 - **[June 2024]** One paper accepted to IEEE/ACM TON!
 - **[March 2024]** One paper accepted to Sigmetrics 2024!
