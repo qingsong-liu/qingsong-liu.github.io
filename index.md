@@ -102,7 +102,7 @@ I am currently a Postdoctoral Research Associate at the University of Massachuse
   <br>
   Shaoke Fang, **Qingsong Liu**, and Wenfei Wu
   <br>
-  40th IEEE Global Communications Conference. **IEEE GlobeCom 2021**.
+  40th IEEE Global Communications Conference. **IEEE GlobeCom 2020**.
 
 
   
