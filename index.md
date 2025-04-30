@@ -24,7 +24,7 @@ I am currently a Postdoctoral Research Associate at the University of Massachuse
 - **[December 2023]** Two papers accepted to INFOCOM 2024!
 
 
-## Selected Conference Papers (* indicates equal contributions)
+## Conference Papers (* indicates equal contribution)
 
 - **AoI-Constrained Scheduling for Information Freshness over Unreliable Channels**
   <br>
@@ -97,6 +97,12 @@ I am currently a Postdoctoral Research Associate at the University of Massachuse
   **Qingsong Liu**, Wenfei Wu, Longbo Huang, and Zhixuan Fang
   <br>
   39th International Symposium on Computer Performance, Modeling, Measurements and Evaluation. **IFIP Performance 2021**.
+
+- **HyperNAT: Scaling Up Network Address Translation with SmartNICs for Clouds**
+  <br>
+  Shaoke Fang, **Qingsong Liu**, and Wenfei Wu
+  <br>
+  40th IEEE Global Communications Conference. **IEEE GlobeCom 2021**.
 
 
   
