@@ -98,11 +98,6 @@ I am currently a Postdoctoral Research Associate at the University of Massachuse
   <br>
   39th International Symposium on Computer Performance, Modeling, Measurements and Evaluation. **IFIP Performance 2021**.
 
-- **HyperNAT: Scaling Up Network Address Translation with SmartNICs for Clouds**
-  <br>
-  Shaoke Fang, **Qingsong Liu**, and Wenfei Wu
-  <br>
-  40th IEEE Global Communications Conference. **IEEE GlobeCom 2020**.
 
 
   
