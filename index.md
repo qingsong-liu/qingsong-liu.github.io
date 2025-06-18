@@ -26,17 +26,20 @@ I am currently a Postdoctoral Research Associate at the University of Massachuse
 
 ## Conference Papers (* indicates equal contribution)
 
-- **AoI-Constrained Scheduling for Information Freshness over Unreliable Channels**
-  <br>
-  Zifan Jia, Haihui Fan, Xiaoyan Gu, Bo Li, Weiping Wang, and **Qingsong Liu**
-  <br>
-  33th IEEE/ACM International Symposium on Quality of Service. **IEEE/ACM IWQoS 2025**.
 
 - **Online Fair Allocation of Reusable Resources**
   <br>
   **Qingsong Liu** and Mohammad Hajiesmaili
   <br>
   55th Annual Conference of the ACM Special Interest Group on Measurement and Modeling of Computer Systems. **ACM SIGMETRICS 2025**.
+
+
+- **AoI-Constrained Scheduling for Information Freshness over Unreliable Channels**
+  <br>
+  Zifan Jia, Haihui Fan, Xiaoyan Gu, Bo Li, Weiping Wang, and **Qingsong Liu**
+  <br>
+  33th IEEE/ACM International Symposium on Quality of Service. **IEEE/ACM IWQoS 2025**.
+
 
 
 - **Learning to Optimize Resource Utilization with QoS Guarantees**
