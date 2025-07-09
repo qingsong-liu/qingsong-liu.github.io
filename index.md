@@ -27,11 +27,6 @@ I am currently a Postdoctoral Research Associate at the University of Massachuse
 ## Conference Papers (* indicates equal contribution)
 
 
-- **Online Fair Allocation of Reusable Resources**
-  <br>
-  **Qingsong Liu** and Mohammad Hajiesmaili
-  <br>
-  55th Annual Conference of the ACM Special Interest Group on Measurement and Modeling of Computer Systems. **ACM SIGMETRICS 2025**.
 
 
 - **AoI-Constrained Scheduling for Information Freshness over Unreliable Channels**
@@ -40,6 +35,11 @@ I am currently a Postdoctoral Research Associate at the University of Massachuse
   <br>
   33th IEEE/ACM International Symposium on Quality of Service. **IEEE/ACM IWQoS 2025**.
 
+- **Online Fair Allocation of Reusable Resources**
+  <br>
+  **Qingsong Liu** and Mohammad Hajiesmaili
+  <br>
+  55th Annual Conference of the ACM Special Interest Group on Measurement and Modeling of Computer Systems. **ACM SIGMETRICS 2025**.
 
 
 - **Learning to Optimize Resource Utilization with QoS Guarantees**
@@ -128,6 +128,12 @@ I am currently a Postdoctoral Research Associate at the University of Massachuse
   **Qingsong Liu** and Zhixuan Fang
   <br>
   IEEE/ACM Transactions on Networking, 2024.
+
+- **The Optimal Dynamic Regret for Smoothed Online Convex Optimization with Squared $\ell_2$ Norm Switching Costs**
+  <br>
+  Yaoyu Zhang, **Qingsong Liu**, Jian Sun, and Chenye Wu
+  <br>
+  Journal of the Franklin Institute, 2023.
 
 
 - **Simultaneously Achieving Sublinear Regret and Constraint Violations for Online Convex Optimization with Time-varying Constraints**
