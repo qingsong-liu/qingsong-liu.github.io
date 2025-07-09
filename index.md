@@ -129,7 +129,7 @@ I am currently a Postdoctoral Research Associate at the University of Massachuse
   <br>
   IEEE/ACM Transactions on Networking, 2024.
 
-- **The Optimal Dynamic Regret for Smoothed Online Convex Optimization with Squared $\ell_2$ Norm Switching Costs**
+- **The Optimal Dynamic Regret for Smoothed Online Convex Optimization with Squared Norm Switching Costs**
   <br>
   Yaoyu Zhang, **Qingsong Liu**, Jian Sun, and Chenye Wu
   <br>
