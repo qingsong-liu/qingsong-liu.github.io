@@ -24,8 +24,7 @@ I am currently a Postdoctoral Research Associate at the University of Massachuse
 - **[December 2023]** Two papers accepted to INFOCOM 2024!
 
 
-## Conference Papers (* indicates equal contribution)
-
+## Conference Papers
 
 
 
