@@ -117,7 +117,7 @@ I am currently a Postdoctoral Research Associate at the University of Massachuse
 
 - **Optimal Caching for Partial-observation Regime and Beyond**
   <br>
-  Zifan Jia\*, **Qingsong Liu\***, Jiang Zhou, Xiaoyan Gu, Yaoyu Zhang, Bo Li, and Weiping Wang
+  Zifan Jia, **Qingsong Liu**, Jiang Zhou, Xiaoyan Gu, Yaoyu Zhang, Bo Li, and Weiping Wang
   <br>
   IEEE Transactions on Services Computing, 2024.
 
