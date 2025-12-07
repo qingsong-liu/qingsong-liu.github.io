@@ -26,6 +26,11 @@ I am currently a Postdoctoral Research Associate at the University of Massachuse
 
 ## Conference Papers
 
+- **TurboTSS: A Packet Classifier with Fast Rule Lookup and Update for the Cloud**
+  <br>
+  Shao Fang, **Qingsong Liu**, Yuchen Xu, Weize Gao, Jianglong Nie, and Weifei Wu
+  <br>
+  39th IEEE International Conference on Computer Communications. **IEEE INFOCOM 2026**.
 
 
 - **AoI-Constrained Scheduling for Information Freshness over Unreliable Channels**
