@@ -13,7 +13,7 @@ I am currently a Postdoctoral Research Associate at the University of Massachuse
 
 ## Recent News
 
-- **[March 2025]** One paper accepted to Sigmetrics 2025!
+- **[April 2025]** One paper accepted to Sigmetrics 2025!
 - **[December 2024]** One paper accepted to IEEE INFOCOM!
 - **[October 2024]** One paper accepted to IEEE/ACM TON!
 - **[July 2024]** I received Tsinghua University Distinguished Doctoral Dissertation Award!
@@ -25,6 +25,12 @@ I am currently a Postdoctoral Research Associate at the University of Massachuse
 
 
 ## Conference Papers
+
+- **Smoothed Online Optimization for Target Tracking: Robust and Learning-Augmented Algorithms**
+  <br>
+  Ali Zeynali, Mahsa Sahebdel, **Qingsong Liu**, Ramesh K. Sitaraman, Mohammad Hajiesmaili
+  <br>
+  37th International Conference on Algorithmic Learning Theory. **ALT 2026**.
 
 - **TurboTSS: A Packet Classifier with Fast Rule Lookup and Update for the Cloud**
   <br>
