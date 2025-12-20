@@ -28,7 +28,7 @@ I am currently a Postdoctoral Research Associate at the University of Massachuse
 
 - **Smoothed Online Optimization for Target Tracking: Robust and Learning-Augmented Algorithms**
   <br>
-  Ali Zeynali, Mahsa Sahebdel, **Qingsong Liu**, Ramesh K. Sitaraman, Mohammad Hajiesmaili
+  Ali Zeynali, Mahsa Sahebdel, **Qingsong Liu**, Ramesh Sitaraman, Mohammad Hajiesmaili
   <br>
   37th International Conference on Algorithmic Learning Theory. **ALT 2026**.
 
