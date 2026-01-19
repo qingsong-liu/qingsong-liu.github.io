@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a Postdoctoral Research Associate at the University of Massachusetts (UMass) Amherst, working with Prof. [Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/) since October 2024. Before joining UMass, I received my Ph.D. in July 2024 from the Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University, where I was supervised by Prof. [Zhixuan Fang](https://people.iiis.tsinghua.edu.cn/~fang/). Prior to that, I achieved my Bachelor's degree in July 2019 at the Department of Electronic Engineering of Tsinghua University and worked with Prof. [Wenfei Wu](https://wenfei-wu.github.io/).
+I am currently a Postdoctoral Research Associate at the University of Massachusetts Amherst, working with Prof. [Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/) since October 2024. Before joining UMass, I received my Ph.D. in July 2024 from the Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University, where I was supervised by Prof. [Zhixuan Fang](https://people.iiis.tsinghua.edu.cn/~fang/). Prior to that, I achieved my Bachelor's degree in July 2019 at the Department of Electronic Engineering of Tsinghua University and worked with Prof. [Wenfei Wu](https://wenfei-wu.github.io/).
 
 ## Research Interests
 
@@ -34,7 +34,7 @@ I am currently a Postdoctoral Research Associate at the University of Massachuse
 
 - **TurboTSS: A Packet Classifier with Fast Rule Lookup and Update for the Cloud**
   <br>
-  Shao Fang, **Qingsong Liu**, Yuchen Xu, Weize Gao, Jianglong Nie, and Weifei Wu
+  Shaoke Fang\*, **Qingsong Liu\***, Yuchen Xu, Weize Gao, Jianglong Nie, and Wenfei Wu
   <br>
   39th IEEE International Conference on Computer Communications. **IEEE INFOCOM 2026**.
 
