@@ -13,6 +13,7 @@ I am currently a Postdoctoral Research Associate at the University of Massachuse
 
 ## Recent News
 
+- **[Match 2026]** Two papers accepted to Sigmetrics 2026!
 - **[April 2025]** One paper accepted to Sigmetrics 2025!
 - **[December 2024]** One paper accepted to IEEE INFOCOM!
 - **[October 2024]** One paper accepted to IEEE/ACM TON!
@@ -25,6 +26,18 @@ I am currently a Postdoctoral Research Associate at the University of Massachuse
 
 
 ## Conference Papers
+
+- **A Unified Framework for Online Combinatorial Allocation of Reusable Resources under Endogenous Deterioration**
+  <br>
+  **Qingsong Liu** and Mohammad Hajiesmaili
+  <br>
+  56th Annual Conference of the ACM Special Interest Group on Measurement and Modeling of Computer Systems. **ACM SIGMETRICS 2026**.
+
+- **Learning to Allocate Reusable Resources under Stochastic Rewards and Durations**
+  <br>
+  Ativ Joshi\*, **Qingsong Liu\***, Mohammad Hajiesmaili
+  <br>
+  56th Annual Conference of the ACM Special Interest Group on Measurement and Modeling of Computer Systems. **ACM SIGMETRICS 2026**.
 
 - **Smoothed Online Optimization for Target Tracking: Robust and Learning-Augmented Algorithms**
   <br>
