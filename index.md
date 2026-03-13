@@ -13,7 +13,7 @@ I am currently a Postdoctoral Research Associate at the University of Massachuse
 
 ## Recent News
 
-- **[Match 2026]** Two papers accepted to Sigmetrics 2026!
+- **[March 2026]** Two papers accepted to Sigmetrics 2026!
 - **[April 2025]** One paper accepted to Sigmetrics 2025!
 - **[December 2024]** One paper accepted to IEEE INFOCOM!
 - **[October 2024]** One paper accepted to IEEE/ACM TON!
