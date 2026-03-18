@@ -47,7 +47,7 @@ I am currently a Postdoctoral Research Associate at the University of Massachuse
 
 - **TurboTSS: A Packet Classifier with Fast Rule Lookup and Update for the Cloud**
   <br>
-  Shaoke Fang\*, **Qingsong Liu\***, Yuchen Xu, Weize Gao, Jianglong Nie, and Wenfei Wu
+  Shaoke Fang, **Qingsong Liu**, Yuchen Xu, Weize Gao, Jianglong Nie, and Wenfei Wu
   <br>
   39th IEEE International Conference on Computer Communications. **IEEE INFOCOM 2026**.
 
@@ -141,7 +141,7 @@ I am currently a Postdoctoral Research Associate at the University of Massachuse
 
 - **Optimal Caching for Partial-observation Regime and Beyond**
   <br>
-  Zifan Jia, **Qingsong Liu**, Jiang Zhou, Xiaoyan Gu, Yaoyu Zhang, Bo Li, and Weiping Wang
+  Zifan Jia\*, **Qingsong Liu\***, Jiang Zhou, Xiaoyan Gu, Yaoyu Zhang, Bo Li, and Weiping Wang
   <br>
   IEEE Transactions on Services Computing, 2024.
 
