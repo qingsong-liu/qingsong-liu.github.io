@@ -170,7 +170,7 @@ I am currently a Postdoctoral Research Associate at the University of Massachuse
 
 ## Academic Service
 
-- Program Committee Member/Conference Reviewer: AISTATS (2023,2024,2025), NeurIPS (2024,2025), ICML (2024,2025,2026), ICLR (2024, 2025,2026), ACM SIGMETRICS (2025)
+- Program Committee Member/Conference Reviewer: AISTATS (2023,2024,2025), NeurIPS (2024,2025), ICML (2024,2025,2026), ICLR (2024, 2025,2026), ACM SIGMETRICS (2026)
 - Journal Reviewer: [IEEE TMC](https://www.computer.org/csdl/journal/tm/), [IEEE TNNLS](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems/), [Neural Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6720226), [ACM TOMPECS](https://dl.acm.org/journal/tompecs), [IEEE/ACM TON](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=90)
 
 ## Teaching
