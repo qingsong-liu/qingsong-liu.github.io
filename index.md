@@ -168,10 +168,10 @@ I am currently a Postdoctoral Research Associate at the University of Massachuse
 
   
 
-## Services
+## Academic Service
 
-- Conference Reviewers: [CDC 2022](https://cdc2022.ieeecss.org/), [AISTATS 2023](https://virtual.aistats.org/), and [NeurIPS 2024](https://neurips.cc/)
-- Journal Reviewers: [IEEE TMC](https://www.computer.org/csdl/journal/tm/), [IEEE TNNLS](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems/), [Neural Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6720226), [ACM TOMPECS](https://dl.acm.org/journal/tompecs), and [IEEE/ACM TON](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=90)
+- Program Committee Member/Conference Reviewer: [CDC 2022], [AISTATS 2023](https://virtual.aistats.org/), and [NeurIPS 2024](https://neurips.cc/)
+- Journal Reviewer: [IEEE TMC](https://www.computer.org/csdl/journal/tm/), [IEEE TNNLS](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems/), [Neural Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6720226), [ACM TOMPECS](https://dl.acm.org/journal/tompecs), [IEEE/ACM TON](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=90)
 
 ## Teaching
 
